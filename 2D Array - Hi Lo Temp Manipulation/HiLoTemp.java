@@ -1,8 +1,7 @@
 //Phil Beechler
 //April 19, 2019
-//Module 7A Lab Assignment
 //2D Array sort of high and low values
-//Sources used: (1) Class Slides
+
 import java.util.*;
 public class HiLoTemp {
     //sorts the temperatures from highest to lowest
