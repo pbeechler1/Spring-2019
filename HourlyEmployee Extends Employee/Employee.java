@@ -1,8 +1,6 @@
 /*Phil Beechler
 March 22, 2019
-Module 5B Lab Assignment
 Create HourlyEmployee class that extends  Employee
-Sources used: (1) Class Slides
 */
 import java.util.Scanner;
 public abstract class Employee {
