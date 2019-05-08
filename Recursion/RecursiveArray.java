@@ -1,9 +1,8 @@
 /*Phil Beechler
 March 15, 2019
-Module 5A Lab
 Use recursion to add up all values of int array
-Sources used: (1) Class Slides
 */
+
 import java.util.Scanner;
 public class RecursiveArray {
     int[] arr;
