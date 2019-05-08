@@ -1,6 +1,12 @@
 /*
 Phil Beechler
-IT 1323L Final
+Programs functions:
+    (1) reads in values from input.txt
+    (2) converts values to int
+    (3) puts values into an array
+    (4) sorts array
+    (5) finds maximum and average values
+    (6) creates output.txt that has sorted array, max, and average values
 May 4th, 2019
  */
 
