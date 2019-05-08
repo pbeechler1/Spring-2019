@@ -1,9 +1,7 @@
 /*Phil Beechler
 April 11, 2019
-Module 6B Lab Assignment
 Create Trivia class that extends Game
 Create LinkedList
-Sources used: (1) Class Slides
 */
 
 import java.util.*;
